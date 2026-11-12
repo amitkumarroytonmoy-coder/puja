@@ -1,0 +1,6 @@
+{
+  "name": "PUJA - AI Bengali Voice Companion",
+  "description": "Real-time Bengali and English voice companion powered by Gemini 3.8 Flash TTS and Gemini 3.8 Live with Girlfriend and Normal modes.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
